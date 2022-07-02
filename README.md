@@ -43,8 +43,8 @@ run.exe
 -> run (invisible) ./../vivaldi.exe
 -> create ip.port
 -> run ./../vivaldi.exe --app=ip.port
--> on session end 
-  -> kill vivaldi
+-> on session end :
+      -> kill vivaldi
 
 ```
 
