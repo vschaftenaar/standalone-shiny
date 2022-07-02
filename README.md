@@ -8,7 +8,7 @@ Upzip the zip-files in ./env/zip to ./env. There you will find the engine (R-por
 ```bash
 Project
  |
- +-- .gitignore
+ --- .gitignore
  |    
  +-- README.md
  |    
