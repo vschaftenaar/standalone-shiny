@@ -5,11 +5,28 @@ Upzip the zip-files in ./env/zip to ./env. There you will find the engine (R-por
 
 ## file structure
 
-#### ./env
-#### ./src
-#### gitignore
-##### README.md
-#### run.exe
-#### runApp.bat  *
+Project
+ |
+ +-- .gitignore
+ |    
+ +-- README.md
+ |    
+ +-- run.exe
+ |    
+ +-- runApp.bat  *
+ |
+ +-- env
+ |  |  
+ |  +-- browser
+ |  +-- engine
+ |  +-- kill_init
+ |
+ +-- src
+ |  |  
+ |  |-- r
+ |  |  |-- app
+ |  |  |-- run_app.r
+ 
+
 
 \* runApp.bat has already been converted to an .exe, i.e., run.exe
