@@ -30,15 +30,10 @@ Project
 ```
 
 ```bash
-├── app
-│   ├── css
-│   │   ├── **/*.css
-│   ├── favicon.ico
-│   ├── images
-│   ├── index.html
-│   ├── js
-│   │   ├── **/*.js
-│   └── partials/template
+├── env
+│   ├── browser
+│   ├── engine
+│   ├── kill_init.bat
 ├── dist (or build)
 ├── node_modules
 ├── bower_components (if using bower)
