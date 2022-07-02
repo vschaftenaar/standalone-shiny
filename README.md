@@ -1,8 +1,5 @@
-#
 # ----------------------------------------------
-
 A first try of creating an easy and fast way of an Standalone Shiny application via R-portable and Vivaldi-portable
-
 # ----------------------------------------------
 
 #
