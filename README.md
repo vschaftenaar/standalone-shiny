@@ -12,7 +12,7 @@ it appears much more stable when running the app from the .ex or .bat
 # Standalone Shiny
 
 ## quick overview
-Upzip the zip-files in ./env/zip to ./env. There you will find the engine (R-portable) and the Browser (Vivaldi). It also includes a kill_init.bat to close all Vivaldi sessions on exiting the Shiny App. For unknown reason the, shiny app only opens when Vivaldi is already running. To still give the application a standalone feel, Vivaldi will be run in the background (invisible=T). Therefor it is necessary that the instances are closed again when the application is closed.
+Upzip the zip-files in ./env/zip to ./env. There you will find the engine (R-portable) and the Browser (Vivaldi). It also includes a kill_init.bat to close all Vivaldi sessions on exit the Shiny App. For unknown reasons, the shiny app only opens when Vivaldi is already running. To still give the application a standalone feel, Vivaldi be running in the background (invisible=T). Therefor it is necessary that all instances are closed again when the application is closed.
 
 ## file structure
 ```bash
