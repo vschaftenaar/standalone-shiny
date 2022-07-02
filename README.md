@@ -35,4 +35,18 @@ Upzip the zip-files in ./env/zip to ./env. There you will find the engine (R-por
 
 ```
 
+## process flow
+```bash
+
+run.exe
+-> kill vivaldi
+-> run (invisible) ./../vivaldi.exe
+-> create ip.port
+-> run ./../vivaldi.exe --app=ip.port
+-> on session end 
+  -> run (invisible) ./../vivaldi.exe
+
+```
+
+
 
