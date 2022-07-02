@@ -1,12 +1,12 @@
 ```bash
-*********************************************************************
+************************************************************************
 unable to fix the issue when there is a space in the directory
 ** fixed -> use SYSTEM instead of SHELL
 
 Running runApp.r from Rstudio seems quite unstable. For some reason
 it appears muchmore stable when running the app from the .exe or .bat
 
-*********************************************************************
+************************************************************************
 ```
 
 # Standalone Shiny
