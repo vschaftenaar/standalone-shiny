@@ -2,7 +2,7 @@ server <- function(input, output, session) {
   session$onSessionEnded(function(){
     
     wd <- getwd()
-    kill_init <- paste0(dirname(dirname(dirname(wd))),'/env/kill_init.bat')
+    kill_init <- paste0('"',dirname(dirname(dirname(wd))),'/env/kill_init.bat','"')
     
     message('kill init:  ',kill_init)
     
