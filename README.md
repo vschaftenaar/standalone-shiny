@@ -13,7 +13,7 @@
 ```
 
 # Standalone Shiny
-by V. Schaftenaar
+by Abulily
 
 ## quick overview
 Upzip the zip-files in ./env/zip to ./env. There you will find the engine (R-portable) and the Browser (Vivaldi). It also includes a kill_init.bat to close all Vivaldi sessions on exit the Shiny App.
