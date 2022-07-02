@@ -9,6 +9,7 @@ Running runApp.r from Rstudio seems quite unstable. For some reason it appears m
 ```
 
 # Standalone Shiny
+V. Schaftenaar
 
 ## quick overview
 Upzip the zip-files in ./env/zip to ./env. There you will find the engine (R-portable) and the Browser (Vivaldi). It also includes a kill_init.bat to close all Vivaldi sessions on exit the Shiny App.
