@@ -8,25 +8,25 @@ Upzip the zip-files in ./env/zip to ./env. There you will find the engine (R-por
 ```bash
 Project
  |
-  ___.gitignore
+ ├── .gitignore
  |    
- +-- README.md
+ ├── README.md
  |    
- +-- run.exe
+ ├── run.exe
  |    
- +-- runApp.bat  *
+ ├── runApp.bat  *
  |
- +-- env
+ ├── env
  |  |  
- |  +-- browser
- |  +-- engine
- |  +-- kill_init
+ |  ├── browser
+ |  ├── engine
+ |  ├── kill_init
  |
- +-- src
+ ├── src
  |  |  
- |  |-- r
- |  |  |-- app
- |  |  |-- run_app.r
+ |  ├── r
+ |  |  ├── app
+ |  |  ├── run_app.r
 ```
 
 
