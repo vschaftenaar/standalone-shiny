@@ -19,7 +19,7 @@ Upzip the zip-files in ./env/zip to ./env. There you will find the engine (R-por
 ├── .gitignore
 ├── README.md
 ├── run.exe
-├── runApp.bat  *
+├── runApp.bat           *
 ├── env
 │   ├── browser         **
 │   ├── engine          **
