@@ -3,8 +3,8 @@
 unable to fix the issue when there is a space in the directory
 ** fixed
 
-Running runApp.r from Rstudio seems quite unstabel. For some reason
-it apears much more stable when running the app from the .ex or .bat
+Running runApp.r from Rstudio seems quite unstable. For some reason
+it appears much more stable when running the app from the .ex or .bat
 
 *********************************************************************
 ```
