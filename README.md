@@ -26,8 +26,8 @@ Upzip the zip-files in ./env/zip to ./env. There you will find the engine (R-por
 │   ├── kill_init.bat   **
 ├── src
 │   ├── r
-│      ├── app
-│      ├── run_app.r
+│       ├── app
+│       ├── run_app.r
 
 
 *  runApp.bat has already been converted to an .exe, i.e., run.exe
