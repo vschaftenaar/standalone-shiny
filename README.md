@@ -21,9 +21,9 @@ Upzip the zip-files in ./env/zip to ./env. There you will find the engine (R-por
 ├── run.exe
 ├── runApp.bat  *
 ├── env
-│   ├── browser
-│   ├── engine
-│   ├── kill_init.bat
+│   ├── browser         **
+│   ├── engine          **
+│   ├── kill_init.bat   **
 ├── src
 │   ├── r
 │      ├── app
@@ -31,7 +31,9 @@ Upzip the zip-files in ./env/zip to ./env. There you will find the engine (R-por
 
 
 
-* runApp.bat has already been converted to an .exe, i.e., run.exe
+*  runApp.bat has already been converted to an .exe, i.e., run.exe
+** to be unziippped
+
 ```
 
 
