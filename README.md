@@ -30,19 +30,18 @@ Project
 ```
 
 ```bash
+├── .gitignore
+├── README.md
+├── run.exe
+├── runApp.bat  *
 ├── env
 │   ├── browser
 │   ├── engine
 │   ├── kill_init.bat
-├── dist (or build)
-├── node_modules
-├── bower_components (if using bower)
-├── test
-├── Gruntfile.js/gulpfile.js
-├── README.md
-├── package.json
-├── bower.json (if using bower)
-└── .gitignore
+├── src
+│   ├── r
+│      ├── app
+│      ├── run_app.r
 ```
 
 \* runApp.bat has already been converted to an .exe, i.e., run.exe
