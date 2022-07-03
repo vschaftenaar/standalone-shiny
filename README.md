@@ -35,7 +35,7 @@ For unknown reasons, the shiny app only opens when Vivaldi is already running. T
 │       ├── run_app.r
 
 
-*  runApp.bat has already been converted to an .exe, i.e., run.exe
+*  runApp.bat has already been converted to an .exe, i.e., run.exe. runApp.bat could be usefull for debugging.
 ** to be unziippped
 
 ```
