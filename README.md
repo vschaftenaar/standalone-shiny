@@ -44,12 +44,12 @@ For unknown reasons, the shiny app only opens when Vivaldi is already running. T
 ```bash
 
 run.exe
--> kill vivaldi
+-> TASKKILL /IM vivaldi.exe /F
 -> run (invisible) ./../vivaldi.exe
 -> create ip.port
 -> run ./../vivaldi.exe --app=ip.port
 -> on session end :
-  -> kill vivaldi
+  -> TASKKILL /IM vivaldi.exe /F
 
 ```
 
