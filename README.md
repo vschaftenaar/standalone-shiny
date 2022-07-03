@@ -59,6 +59,8 @@ R portable configures R to work with the PortableApps framework, so that R can b
 
 https://sourceforge.net/projects/rportable/files/R-Portable/4.0.5/
 
+
+
 Vivaldi is a freeware, cross-platform web browser developed by Vivaldi Technologies.
 
 https://vivaldi.com/download/
