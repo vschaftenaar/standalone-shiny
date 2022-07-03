@@ -16,7 +16,7 @@
 by Abulily
 
 ## quick overview
-Upzip the zip-files in ./env/zip to ./env. There you will find the engine (R-portable) and the Browser (Vivaldi). It also includes a kill_init.bat to close all Vivaldi sessions on exit the Shiny App.
+Unzip the zip-files in ./env/zip to ./env. There you will find the engine (R-portable) and the Browser (Vivaldi). It also includes a kill_init.bat to close all Vivaldi sessions on exit the Shiny App.
 For unknown reasons, the shiny app only opens when Vivaldi is already running. To still give the application a standalone feel, Vivaldi will be running in the background (invisible). Therefor it is necessary that all instances are closed again when the application is closed.
 
 ## file structure
@@ -36,7 +36,7 @@ For unknown reasons, the shiny app only opens when Vivaldi is already running. T
 
 
 *  runApp.bat has already been converted to an .exe, i.e., run.exe. runApp.bat could be usefull for debugging.
-** to be unziippped
+** to be unzipped
 
 ```
 
