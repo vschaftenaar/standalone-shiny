@@ -57,7 +57,8 @@ run.exe
 
 R portable configures R to work with the PortableApps framework, so that R can be ran from a thumb drive or portable hard drive without leaving artifacts on the computer. Version 4.0.5 is included in the repo.    
 https://sourceforge.net/projects/rportable/files/R-Portable/4.0.5/
-<br>
-<br>
+\
+\
+\
 Vivaldi is a freeware, cross-platform web browser developed by Vivaldi Technologies.  
 https://vivaldi.com/download/
